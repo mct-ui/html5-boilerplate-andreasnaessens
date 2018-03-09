@@ -1,7 +1,3 @@
-body {
-    background: white;
-}
-
 /*
     Elements: Page
     ---
@@ -23,14 +19,6 @@ html {
  * Customize the background color to match your design.
  */
 
-::-moz-selection {
-    background: #e85e00;
-    color: white;
-    text-shadow: none;
-}
+::-moz-selection {}
 
-::selection {
-    background: #e85e00;
-    color: white;
-    text-shadow: none;
-}
+::selection {}
